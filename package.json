@@ -1,13 +1,13 @@
 {
   "name": "barcos-multijugador",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "description": "Proyecto de barcos multijugador",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "test": "nodemon server"
+    "start": "node server.js",
+    "test": "nodemon server.js"
   },
-  "author": " <@loo-kuhs>",
+  "author": " <@loo-kuhs> Carlos Lucas",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.20"
